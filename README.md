@@ -1,6 +1,6 @@
 # Análise de dados com DataSet de times de futebol
 Projeto de análise de dados para matéria de ciência de dados <br><br>
-#Integrantes:<br>
+# Integrantes:<br>
 Gustavo Silva <br>
 Gabriel Kenji<br>
 Jonathan da Silva<br>
