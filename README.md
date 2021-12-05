@@ -6,5 +6,5 @@ Gabriel Kenji<br>
 Jonathan da Silva<br>
 
 Utilizando pandas, matplotlib, seaborn e scikit-learn <br><br>
-Fonte do DataSet: https://www.kaggle.com/varpit94/football-teams-rankings-stats
+DataSet: https://www.kaggle.com/varpit94/football-teams-rankings-stats
 
